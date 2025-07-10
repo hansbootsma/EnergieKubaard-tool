@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from PIL import Image
 
-
+st.set_page_config(page_title="EnergieKûbaard Accu Dashboard", layout="wide")
 
 st.title("🔋 EnergieKûbaard - Terugverdientijd Thuisaccu")
 st.markdown("Vergelijk scenario's met en zonder accu bij een dynamisch contract. Vul je gegevens in en zie direct het resultaat.")
