@@ -5,7 +5,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from PIL import Image
 
-st.set_page_config(page_title="EnergieKûbaard Accu Dashboard", layout="wide")
 
 
 st.title("🔋 EnergieKûbaard - Terugverdientijd Thuisaccu")
